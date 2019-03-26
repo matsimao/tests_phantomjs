@@ -1,4 +1,4 @@
-# Testes usando PhantomJs
+# Testes usando [PhantomJs](https://www.npmjs.com/package/phantom)
 
 ## Como usar
 * Executar no terminal npm install
