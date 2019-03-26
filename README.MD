@@ -1,4 +1,4 @@
-#Testes usando PhantomJs
+# Testes usando PhantomJs
 * **facebook.js**:
 Faz login utilizando as variaveis de ambiente _LOGIN_FACEBOOK_ e _PASS_FACEBOOK_.
 Realiza uma capturas de tela:
