@@ -1,0 +1,17 @@
+{
+  "name": "phantom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "phantom": "^6.0.3"
+  },
+  "devDependencies": {
+    "dotenv": "^7.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Simão",
+  "license": "ISC"
+}
