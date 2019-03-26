@@ -1,4 +1,12 @@
 # Testes usando PhantomJs
+
+## Como usar
+* Executar no terminal npm install
+* Renomear o arquivo .env.example para .env
+* Configurar os dados do .env com as credenciais necessarias para os testes
+
+## Testes
+
 * **facebook.js**:
 Faz login utilizando as variaveis de ambiente _LOGIN_FACEBOOK_ e _PASS_FACEBOOK_.
 Realiza uma capturas de tela:
